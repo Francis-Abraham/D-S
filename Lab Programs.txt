@@ -1,1 +1,23 @@
 
+Lab Programs:
+1.	Write a program for insertion and deletion operations in an array.
+2.	Write a program to search for an element in an array using Linear Search .
+3.	Write a program to search for an element in an array using Binary Search.
+4.	Write a program to sort an array using Bubble Sort
+5.	Write a program to sort an array using Selection Sort 
+6.	Write a program to sort an array using Insertion Sort.
+7.	Write a program to merge two arrays.
+8.	Write a program to add two matrices.
+9.	Write a program to subtract two matrices.
+10.	Write a program to multiply two matrices.
+11.	Write a program to insert an element into a Singly Linked List:(a) At the beginning (b) At the end(c) At a specified position.
+12.	Write a program to delete an element from a Singly Linked List: (a) At the beginning (b) At the end (c) A specified element
+13.	Write a program to perform the following operations in a Doubly Linked List: (a) Create (b) Search for an element
+14.	Write a program to perform the following operations in a Circular Linked List: (a) Create (b) Search an element
+15.	Write a program to implement stack operations using an array. 
+16.	Write a program to evaluate a postfix expression using a stack.
+17.	Write a program to perform the following using recursion: (a) Find the factorial of a number (b)Generate Fibonacci Series
+18.	Write a program to implement simple queue operations using an array.
+19.	Write a program to implement circular queue operations using an array.
+20.	Write a program to perform the following operations on a binary search tree. (a) Preorder Traversal (b) Inorder Traversal (c) Postorder Traversal
+21.	Write a program to perform an insertion operation in a binary search tree.
